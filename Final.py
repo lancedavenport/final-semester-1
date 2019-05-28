@@ -1,12 +1,4 @@
-# Lance Davenport wrote this code.
-
-# I wanted to build a calculator that solves a variety of different types of problems
-
-# I completed everything I wanted to do, though I would like to just add more methods so there are more options for solving equations.
-
-# I got help from Reed, my friend Charlie, and Riley Gibbs. I also found some of the algorithms online.
-
-# There are currently no bugs in my code.
+# Lance Davenport
 
 from sympy.solvers import solve
 from sympy import Symbol
